@@ -1,0 +1,32 @@
+.container{
+    margin-bottom: 50px;
+}
+
+
+.buy-now-button{
+    width: 130px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: black;
+    color: white;
+}
+
+.carousel{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+#card{
+    border: none;
+    border-radius: 50px;
+    text-align: center;
+
+}
+
+.card-footer{
+    border: none;
+}
+.h-100{
+    border: none;
+}
